@@ -110,9 +110,9 @@ concealing a white pawn in one hand and a black pawn in the other and
 
 having the opponent choose. 
 
-a b ic d e f 
+a b ic d e 
 
-g h 
+f g h 
 
 8 
 
